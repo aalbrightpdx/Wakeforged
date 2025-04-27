@@ -54,5 +54,22 @@ Each formula is a **living project**, shaped by experience, experiment, and evol
 
 ---
 
+## ⚖️ Liability Disclaimer
+
+The information, formulas, and materials provided in the Wakeforged project are for educational and informational purposes only.
+They are not intended as medical advice, nor are they a substitute for professional healthcare consultation.
+
+By using this material, you acknowledge and agree:
+
+- You do so at your own risk.
+- You are responsible for your own health decisions and outcomes.
+- The creator (aalbrightpdx) assumes no liability for any adverse effects, injuries, or damages resulting from the use or misuse of the information or products derived from this project.
+
+Always consult a qualified healthcare professional before beginning any new herbal regimen, especially if you are pregnant, nursing, have a medical condition, or are taking medication.
+
+*"Forge wisely. Heal fiercely. Choose freely."* 🌿
+
+---
+
 *"Wake strong. Root deep. Live fierce."* 🖤🔥🌿
 
