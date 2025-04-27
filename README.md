@@ -33,10 +33,12 @@ A deep tonic of greens, roots, and adaptogens — crafted to anchor the spirit a
 
 ---
 
+## 📥 How to Download Wakeforged
 
-- `formula.md` — Ingredient lists, preparation, and usage instructions.
-- `notes.md` — Observations, adaptations, user experiences, and experiments.
-- `media/` — Labels, artwork, or printable materials for the elixirs.
+To clone the Wakeforged repository to your local machine:
+
+```bash
+git clone https://github.com/aalbrightpdx/Wakeforged.git
 
 ---
 
