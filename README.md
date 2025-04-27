@@ -67,7 +67,7 @@ By using this material, you acknowledge and agree:
 
 Always consult a qualified healthcare professional before beginning any new herbal regimen, especially if you are pregnant, nursing, have a medical condition, or are taking medication.
 
-*"Forge wisely. Heal fiercely. Choose freely."* 🌿
+*"Forge wisely. Heal fiercely. Choose freely."*
 
 ---
 
