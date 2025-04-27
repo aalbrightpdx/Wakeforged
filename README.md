@@ -39,7 +39,7 @@ To clone the Wakeforged repository to your local machine:
 
 ```bash
 git clone https://github.com/aalbrightpdx/Wakeforged.git
-
+```
 ---
 
 ## 📜 Philosophy
