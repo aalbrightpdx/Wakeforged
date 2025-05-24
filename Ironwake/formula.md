@@ -6,6 +6,10 @@ Forged in the fires of will and tempered by the roots of the earth,
 
 ---
 
+📘 Prefer a printable version?  
+[Download the Ironwake Formula as a PDF](formula.pdf)
+
+---
 ## Ingredients (16oz Jar - Dry Volume)
 
 |  Ingredient            | Amount  | Notes |
