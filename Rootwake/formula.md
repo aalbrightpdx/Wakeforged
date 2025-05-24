@@ -7,7 +7,7 @@ Forged in the deep roots of the earth and anointed with the breath of ancient fo
 ---
 
 📘 Prefer a printable version?  
-[Download the Ironwake Formula as a PDF](formula.pdf)
+[Download the Rootwake Formula as a PDF](formula.pdf)
 
 ---
 
